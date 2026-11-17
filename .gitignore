@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.idea/
+.venv/
+venv/
+.DS_Store
+# 第13章の練習で作られるファイル
+exercises/ch13/passed.txt
+exercises/ch13/log.txt
+exercises/ch13/memo.txt
